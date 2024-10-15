@@ -17,7 +17,7 @@ which aim to serve three primary user exeprience goals:
 
 OnScript in practice will look like:
 
-*Toggle*
+**Toggle**
 
 ```html
 <button onclick='toggle_class(".red")'>
@@ -31,7 +31,7 @@ Click Me
 </button>
 ```
 
-*GET request*
+**GET request**
 
 ```html
 <button onclick='get("/example")'>
@@ -55,7 +55,7 @@ Click Me
 </button>
 ```
 
-*POST request*
+**POST request**
 
 ```html
 <button onclick='post("/test")'>
