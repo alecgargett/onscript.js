@@ -15,9 +15,9 @@ which aim to serve three primary user exeprience goals:
 * Power and flexibility in website application design
 * Fast and efficient application performance
 
-OnScript in practice will look like
+OnScript in practice will look like:
 
-Toggle:
+*Toggle*
 
 ```html
 <button onclick="toggle(.red)">
@@ -31,7 +31,7 @@ Click Me
 </button>
 ```
 
-GET request:
+*GET request*
 
 ```html
 <button onclick="get(/example)">
@@ -55,7 +55,7 @@ Click Me
 </button>
 ```
 
-POST request:
+*POST request*
 
 ```html
 <button onclick="post(/test)">
