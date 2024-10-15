@@ -26,7 +26,7 @@ Click Me
 ```
 
 ```html
-<button onclick='toggle_class(".toggled_class" on "#div_id")'>
+<button onclick='toggle_class(".toggled_class on #div_id")'>
 Click Me
 </button>
 ```
@@ -42,7 +42,7 @@ Click Me
 or to target the innerHTML of another div:
 
 ```html
-<button onclick='get("/example" into "#div_id")">
+<button onclick='get("/example into #div_id")">
 Click Me
 </button>
 ```
@@ -50,7 +50,7 @@ Click Me
 or to target the outerHTML of another div:
 
 ```html
-<button onclick='get("/example" to_replace "#div_id")">
+<button onclick='get("/example to_replace #div_id")">
 Click Me
 </button>
 ```
