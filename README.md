@@ -42,7 +42,7 @@ Click Me
 or to target the innerHTML of another div:
 
 ```html
-<button onmousedown='get("/fragment into #div_id")">
+<button onmousedown='get("/fragment into #div_id")'>
 Click Me
 </button>
 ```
@@ -50,7 +50,7 @@ Click Me
 or to target the outerHTML of another div:
 
 ```html
-<button onclick='get("/fragment to_replace #div_id")">
+<button onclick='get("/fragment to_replace #div_id")'>
 Click Me
 </button>
 ```
