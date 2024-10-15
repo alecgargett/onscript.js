@@ -65,4 +65,4 @@ Click Me
 
 Copyright Alec Gargett 2024
 
-License: ag-copyleft
+License: ag-copyleft (Free to use on conditions of fair attribution, fair compensation, and no liability for the copyright holder; no warranty)
