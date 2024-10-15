@@ -53,7 +53,8 @@ or
 
 ```html
 <button onkeypress='get("/fragment into this")'>
-Press any key to get fragment</button>
+Press any key to get fragment
+</button>
 ```
 
 or to target the innerHTML of another div:
