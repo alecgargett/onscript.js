@@ -63,6 +63,4 @@ Click Me
 </button>
 ```
 
-2024
-
 License: ag-copyleft (Free to use and modify on conditions of fair attribution, fair compensation, same license, and no liability for the copyright holder; no warranty)
