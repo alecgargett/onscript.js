@@ -20,7 +20,7 @@ OnScript in practice will look like:
 *Toggle*
 
 ```html
-<button onclick="toggle('.red')">
+<button onclick='toggle(".red")'>
 Click Me
 </button>
 ```
