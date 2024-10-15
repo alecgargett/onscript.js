@@ -17,6 +17,8 @@ which aim to serve three primary user exeprience goals:
 
 OnScript in practice will look like
 
+Toggle:
+
 ```html
 <button onclick="toggle(.red)">
 Click Me
@@ -28,6 +30,8 @@ Click Me
 Click Me
 </button>
 ```
+
+GET request:
 
 ```html
 <button onclick="get(/example)">
@@ -47,6 +51,14 @@ or to target the outerHTML of another div:
 
 ```html
 <button onclick="get(/example onto #div_id)">
+Click Me
+</button>
+```
+
+POST request:
+
+```html
+<button onclick="post(/test)">
 Click Me
 </button>
 ```
