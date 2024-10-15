@@ -26,7 +26,7 @@ Click Me
 ```
 
 ```html
-<button onclick="toggle('.toggled_class on #div_id')">
+<button onclick='toggle(".toggled_class" on "#div_id")'>
 Click Me
 </button>
 ```
@@ -34,7 +34,7 @@ Click Me
 *GET request*
 
 ```html
-<button onclick="get('/example')">
+<button onclick='get("/example")'>
 Click Me
 </button>
 ```
@@ -42,7 +42,7 @@ Click Me
 or to target the innerHTML of another div:
 
 ```html
-<button onclick="get('/example into #div_id')">
+<button onclick='get("/example" into "#div_id")">
 Click Me
 </button>
 ```
@@ -50,7 +50,7 @@ Click Me
 or to target the outerHTML of another div:
 
 ```html
-<button onclick="get('/example onto #div_id')">
+<button onclick='get("/example" to_replace "#div_id")">
 Click Me
 </button>
 ```
@@ -58,7 +58,7 @@ Click Me
 *POST request*
 
 ```html
-<button onclick="post('/test')">
+<button onclick='post("/test")'>
 Click Me
 </button>
 ```
