@@ -4,7 +4,7 @@ OnScript.js is a project with the goal of creating a minimalist vanilla javascri
 
 There are three primary design goals:
 
-* Functionality: to eventually include all of the functionalisty of htmx, hyperscript, datastar, unpoly, Alpine AJAX, Hotwire, Liveview, Livewire, Hydro etc.
+* Functionality: to eventually include all of the functionality of htmx, hyperscript, datastar, unpoly, Alpine AJAX, Hotwire, Liveview, Livewire, Hydro etc.
 * Syntax: to use a combination of vanillaJS event handler function calls with syntax inspired by hyperscript/Hypertalk/Lua.
 * Spec: to remain in spec and as much as possible with "on*" inline event listeners.
 
