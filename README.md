@@ -6,7 +6,7 @@ There are three primary design goals:
 
 * Functionality: to eventually include all of the functionality of htmx, hyperscript, datastar, unpoly, Alpine AJAX, Hotwire, Liveview, Livewire, Hydro etc.
 * Syntax: to use a combination of vanillaJS event handler function calls with syntax inspired by hyperscript/Hypertalk/Lua.
-* Spec: to remain in spec and as much as possible with "on*" inline event listeners.
+* Spec: to remain in spec and use "on*" inline event listeners where feasible.
 
 which aim to serve three primary user exeprience goals:
 
