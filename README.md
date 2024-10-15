@@ -20,13 +20,13 @@ OnScript in practice will look like:
 *Toggle*
 
 ```html
-<button onclick='toggle(".red")'>
+<button onclick='toggle_class(".red")'>
 Click Me
 </button>
 ```
 
 ```html
-<button onclick='toggle(".toggled_class" on "#div_id")'>
+<button onclick='toggle_class(".toggled_class" on "#div_id")'>
 Click Me
 </button>
 ```
